@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "Hash": "F1C7wdEAu81mKLIa3cGEn12asgCc5Nc0Oycu0t/rJ+Q=",
+  "Source": "Aulakh_Uday_EC",
+  "BasePath": "_content/Aulakh_Uday_EC",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Aulakh_Uday_EC/wwwroot",
+      "Source": "Aulakh_Uday_EC",
+      "ContentRoot": "/Users/udayaulakh/Projects/Aulakh_Uday_EC/Aulakh_Uday_EC/wwwroot/",
+      "BasePath": "_content/Aulakh_Uday_EC",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/Users/udayaulakh/Projects/Aulakh_Uday_EC/Aulakh_Uday_EC/wwwroot/files/images/profile.png",
+      "SourceId": "Aulakh_Uday_EC",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/udayaulakh/Projects/Aulakh_Uday_EC/Aulakh_Uday_EC/wwwroot/",
+      "BasePath": "_content/Aulakh_Uday_EC",
+      "RelativePath": "files/images/profile.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/files/images/profile.png"
+    },
+    {
+      "Identity": "/Users/udayaulakh/Projects/Aulakh_Uday_EC/Aulakh_Uday_EC/wwwroot/files/tMPA_Application_Resume_Template.pdf",
+      "SourceId": "Aulakh_Uday_EC",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/udayaulakh/Projects/Aulakh_Uday_EC/Aulakh_Uday_EC/wwwroot/",
+      "BasePath": "_content/Aulakh_Uday_EC",
+      "RelativePath": "files/tMPA_Application_Resume_Template.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/files/tMPA_Application_Resume_Template.pdf"
+    }
+  ]
+}

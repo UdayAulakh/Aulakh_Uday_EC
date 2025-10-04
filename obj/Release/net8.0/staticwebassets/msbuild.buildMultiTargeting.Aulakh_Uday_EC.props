@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/Aulakh_Uday_EC.props" />
+</Project>

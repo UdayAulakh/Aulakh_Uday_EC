@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../buildMultiTargeting/Aulakh_Uday_EC.props" />
+</Project>

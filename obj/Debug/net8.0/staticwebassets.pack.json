@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/udayaulakh/Projects/Aulakh_Uday_EC/Aulakh_Uday_EC/wwwroot/files/images/profile.png",
+      "PackagePath": "staticwebassets/files/images/profile.png"
+    },
+    {
+      "Id": "/Users/udayaulakh/Projects/Aulakh_Uday_EC/Aulakh_Uday_EC/wwwroot/files/tMPA_Application_Resume_Template.pdf",
+      "PackagePath": "staticwebassets/files/tMPA_Application_Resume_Template.pdf"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.Aulakh_Uday_EC.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.Aulakh_Uday_EC.props",
+      "PackagePath": "build\\Aulakh_Uday_EC.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.Aulakh_Uday_EC.props",
+      "PackagePath": "buildMultiTargeting\\Aulakh_Uday_EC.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.Aulakh_Uday_EC.props",
+      "PackagePath": "buildTransitive\\Aulakh_Uday_EC.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

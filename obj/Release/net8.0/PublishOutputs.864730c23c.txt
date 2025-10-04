@@ -1,0 +1,7 @@
+/Users/udayaulakh/Projects/Aulakh_Uday_EC/Aulakh_Uday_EC/obj/Release/net8.0/PubTmp/Out/Aulakh_Uday_EC
+/Users/udayaulakh/Projects/Aulakh_Uday_EC/Aulakh_Uday_EC/obj/Release/net8.0/PubTmp/Out/appsettings.Development.json
+/Users/udayaulakh/Projects/Aulakh_Uday_EC/Aulakh_Uday_EC/obj/Release/net8.0/PubTmp/Out/appsettings.json
+/Users/udayaulakh/Projects/Aulakh_Uday_EC/Aulakh_Uday_EC/obj/Release/net8.0/PubTmp/Out/Aulakh_Uday_EC.dll
+/Users/udayaulakh/Projects/Aulakh_Uday_EC/Aulakh_Uday_EC/obj/Release/net8.0/PubTmp/Out/Aulakh_Uday_EC.deps.json
+/Users/udayaulakh/Projects/Aulakh_Uday_EC/Aulakh_Uday_EC/obj/Release/net8.0/PubTmp/Out/Aulakh_Uday_EC.runtimeconfig.json
+/Users/udayaulakh/Projects/Aulakh_Uday_EC/Aulakh_Uday_EC/obj/Release/net8.0/PubTmp/Out/Aulakh_Uday_EC.pdb

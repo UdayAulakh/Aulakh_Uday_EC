@@ -1,0 +1,77 @@
+﻿@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    ViewData["Title"] = "Home";
+}
+
+<!-- Intro Section -->
+<div class="text-center my-5">
+    <h1 class="display-4 fw-bold">Hi, I’m Uday 👋</h1>
+    <p class="lead text-muted">MIS at UT Austin | I love staying active with basketball & golf.</p>
+
+    <!-- Profile Picture -->
+    <img src="~/files/images/profile.png"
+         alt="Uday Profile Photo"
+         class="img-fluid rounded-circle shadow-sm my-4"
+         style="width: 25%; max-width: 250px; height: auto; object-fit: cover;" />
+</div>
+
+<hr />
+
+<!-- Contact Links -->
+<div class="text-center my-4">
+    <h5 class="mb-3">📬 Connect with Me</h5>
+
+    <a href="https://mail.google.com/mail/?view=cm&fs=1&to=udayaulakh@utexas.edu"
+       target="_blank"
+       class="btn btn-outline-primary btn-sm mx-1">
+        Email
+    </a>
+
+
+
+    <!-- LinkedIn -->
+    <a href="https://www.linkedin.com/in/uday-aulakh/"
+       target="_blank"
+       rel="noopener noreferrer"
+       class="btn btn-outline-info btn-sm mx-1">
+        LinkedIn
+    </a>
+</div>
+
+
+
+
+
+<!-- Favorites in a Card -->
+<div class="card shadow-sm my-5">
+    <div class="card-header bg-dark text-white">
+        <h5 class="mb-0">⭐ Some of My Favorites</h5>
+    </div>
+    <div class="card-body">
+        <table class="table table-striped mb-0">
+            <tbody>
+                <tr>
+                    <td><strong>Favorite Teams</strong></td>
+                    <td>Lakers, Texas Longhorns, 49ers, San Francisco Giants</td>
+                </tr>
+                <tr>
+                    <td><strong>Sport</strong></td>
+                    <td>Basketball & Golf</td>
+                </tr>
+                <tr>
+                    <td><strong>Favorite Restaurants</strong></td>
+                    <td>Ember Kitchen, Odd Duck, Terry Black's BBQ</td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+</div>
+
+<!-- TED Talk Embed -->
+<div class="my-5">
+    <h4 class="text-center mb-3">🎥 Favorite TED Talk</h4>
+    <p class="text-center text-muted">"How great leaders inspire action" — Simon Sinek</p>
+    <div class="ratio ratio-16x9 shadow-sm rounded">
+        <iframe src="https://www.youtube.com/embed/qp0HIF3SfI4" title="TED Talk" allowfullscreen></iframe>
+    </div>
+</div>
